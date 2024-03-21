@@ -1,0 +1,31 @@
+Target directory: '.'
+Scrapping . tree ...
+
+Statistics
+---
+N°Directories  1
+N°Files        5
+---
+N° .doc files  0  
+N° .prj files  0  
+N° .hdf files  0  
+N° .xls files  0  
+N° .dwg files  0  
+N° .dxf files  0  
+N° .xlsx files  0  
+N° .docx files  0  
+N° .xlsx files  0  
+N° .jpg files  0  
+N° .png files  0  
+N° .tif files  0  
+N° .tiff files  0  
+N° .shp files  0  
+N° .nc files  0  
+N° .py files  0  
+N° .ipynb files  0  
+N° .sh files  1  
+N° .txt files  0  
+N° .md files  0  
+---
+
+Done

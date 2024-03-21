@@ -1,0 +1,9 @@
+./
+├── ./README.md*
+├── ./cdtree.sh*
+├── ./remotedir_stats.sh*
+└── ./tmp/
+    ├── ./tmp/PROJECT_tree.tree*
+    └── ./tmp/STATS.txt*
+
+1 directory, 5 files
